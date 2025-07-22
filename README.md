@@ -26,8 +26,3 @@
 </div>
 
 ###
-
-<p style="background-color: #000; color: #fff; padding: 10px;">
-  # Título do Projeto
-  Descrição do projeto...
-</p>
